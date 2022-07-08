@@ -34,9 +34,9 @@ Project was made by PHP OOP and ORM -Doctrine. This project was created for lear
 ## How to use this project:
 
 * You will be able: 
-    a) to create employees and projects names;
-    b) to delete employees and projects names;
-    c) to edit employees names and assigned projects names, and edit projects name;
+    * to create employees and projects names;
+    * to delete employees and projects names;
+    * to edit employees names and assigned projects names, and edit projects name;
 
 ## Author:
 
