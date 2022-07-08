@@ -21,14 +21,14 @@ Project was made by PHP OOP and ORM -Doctrine. This project was created for lear
 * Downlaod MySQL Workbench and install it;
 * Download or make a clone git repository Sprint-8 and place it inside htdocs directory (XAMPP);
 * Run XAMPP and start Apache and MySQL server;
+* Import data.sql file in MySQL Workbench;
 * Open command line inside the project directory;
-* Install : php composer.phar 
+* Install : php composer.phar;
 * Install ORM( Doctrine) : php ../composer.phar require doctrine/orm;
 * Install others Doctrine dependencies: 
     a) php ../composer.phar require symfony/cache
     b) php ../composer.phar require doctrine/annotations
-* Create sprint8 db MySQL Workbench 
-* Run this command: vendor/bin/doctrine orm:schema-tool:update --force --dump-sql
+* Run this command: vendor/bin/doctrine orm:schema-tool:update --force --dump-sql;
 * Open index.php in the browser.
 
 ## How to use this project:
